@@ -3,7 +3,7 @@ asgiref
 astroid
 colorama
 distlib
-Django==3.1.7
+Django
 filelock
 isort
 lazy-object-proxy

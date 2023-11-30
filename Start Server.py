@@ -1,2 +1,2 @@
-import os
-os.system("python manage.py runserver")
+from os import system
+system("python manage.py runserver")
